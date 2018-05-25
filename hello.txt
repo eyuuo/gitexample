@@ -2,4 +2,5 @@ I'm trying to command 'tee'
 apple
 bee
 triangle
+hi
 
